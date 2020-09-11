@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-11T18:22:25 BDT" name="Suite" finished-at="2020-09-11T18:22:26 BDT" duration-ms="75">
+    <groups>
+    </groups>
+    <test started-at="2020-09-11T18:22:25 BDT" name="Test" finished-at="2020-09-11T18:22:26 BDT" duration-ms="75">
+      <class name="sdMavenPackge.MavenProject.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:sdMavenPackge.MavenProject.RESTAPITest@9225652]" started-at="2020-09-11T18:22:26 BDT" name="deleteTwitter" finished-at="2020-09-11T18:22:26 BDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="podtJira()[pri:0, instance:sdMavenPackge.MavenProject.RESTAPITest@9225652]" started-at="2020-09-11T18:22:26 BDT" name="podtJira" finished-at="2020-09-11T18:22:26 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- podtJira -->
+      </class> <!-- sdMavenPackge.MavenProject.RESTAPITest -->
+      <class name="sdMavenPackge.MavenProject.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:sdMavenPackge.MavenProject.AppiumTest@654f0d9c]" started-at="2020-09-11T18:22:26 BDT" name="IOSApps" finished-at="2020-09-11T18:22:26 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:sdMavenPackge.MavenProject.AppiumTest@654f0d9c]" started-at="2020-09-11T18:22:26 BDT" name="NativeAppAndroid" finished-at="2020-09-11T18:22:26 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- sdMavenPackge.MavenProject.AppiumTest -->
+      <class name="sdMavenPackge.MavenProject.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:sdMavenPackge.MavenProject.SeleniumTest@6a400542]" started-at="2020-09-11T18:22:26 BDT" name="BrowserAutomation" finished-at="2020-09-11T18:22:26 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUI()[pri:0, instance:sdMavenPackge.MavenProject.SeleniumTest@6a400542]" started-at="2020-09-11T18:22:26 BDT" name="ElementsUI" finished-at="2020-09-11T18:22:26 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- sdMavenPackge.MavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
